@@ -2,21 +2,13 @@
 
 No todas las personas que utilizan Git comprenden su **estructura**. Comprender su estructura ayudará a dominar su uso sin tener que memorizar todos los comandos y parámetros.
 
-Los archivos de este repositorio serán de utilidad para realizar los ejercicios que se muestran en los videos del curso.
-
 Prerequisitos:
-
-- Conomientos básicos de git
-	- git clone
-	- git status
-	- git commit 
-	- git log
-	- git add 
-	- git init
-	- git checkout
-	- git branch
+	- Conomientos básicos de git, git clone, git status, git commit , git log, git add , git init, git checkout y git branch.
 
 - Cuenta de GitHub 
+
+_Nota: Los archivos de este repositorio serán de utilidad para realizar los ejercicios que se muestran en los videos del curso._
+
 
 # Contenido
 
