@@ -8,7 +8,7 @@ Prerequisitos:
 - Conomientos básicos de git clone, git status, git commit , git log, git add , git init, git checkout y git branch.
 - Cuenta de GitHub 
 
-_Nota: Los archivos de este repositorio serán de utilidad para realizar los ejercicios que se muestran en los videos del curso._
+_Nota: los archivos de este repositorio serán de utilidad para realizar los ejercicios que se muestran en los videos del curso._
 
 
 # Contenido
