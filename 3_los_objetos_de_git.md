@@ -1,4 +1,4 @@
-# Los objetos de Git
+# 3. Los objetos de Git
 
 Índice:
 
