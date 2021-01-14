@@ -1,4 +1,4 @@
-# 1. Claves y valores
+# 2. Claves y valores
 
 Índice:
 
