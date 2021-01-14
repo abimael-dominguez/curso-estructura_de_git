@@ -79,7 +79,6 @@ $ echo "hola"
 hola
 
 # con el pipe (|) mandamos "por un tubo" el texto hacia `git hash-object` para que lo convierta en un objeto y le asigne un SHA-1.
-
 # deberías obtener un resultado similar a siguiente (lo más probable es que el SHA-1 que te asigne Git sea diferente pero debe tener 40 caracteres)
 $ echo "hola" | git hash-object  --stdin
 5c1b14949828006ed75a3e8858957f86a2f7e2eb
