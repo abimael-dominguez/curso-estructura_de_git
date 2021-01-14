@@ -15,6 +15,7 @@
 ## Desarrollo
 
  > _Claves y valores, una pareja inseparable_.
+ 
 ![alt](imagenes/claves_y_valores.png) 
 
 El núcleo de git está conformado por un almacén de claves y valores.
