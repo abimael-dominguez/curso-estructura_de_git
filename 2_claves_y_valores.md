@@ -50,6 +50,8 @@ Ejemplos de objetos con su identificador SHA-1:
 
 
 ![alt](imagenes/sha-1.png) 
+
+
 *_Por fines ilustrativos se redujo a tres el número de caracteres del SHA-1_
 
 ## Ejercicios
