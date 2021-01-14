@@ -20,7 +20,7 @@ Antes de dar la definición tratemos de listar las partes de un archivo.
 	- contenido
 	- dirección de almacenamiento
  
- Sin embargo, Git "separa" el contenido del nombre y dirección de almacenamiento. 
+ Sin embargo, Git "separa" el contenido del nombre y de la dirección de almacenamiento. 
  
 ![alt](imagenes/cortar.png) 
  
@@ -28,6 +28,7 @@ Antes de dar la definición tratemos de listar las partes de un archivo.
 - Un Blob NO contine el nombre del archivo ni la dirección de almacenamiento del archivo.
  
 En este curso representaremos un Blob con la siguiente imagen:
+
 ![alt](imagenes/blob.png) 
 
 ### Tree
