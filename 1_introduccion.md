@@ -1,4 +1,4 @@
-#  Introducción
+# 1. Introducción
 ----
 ## Comandos de porcelana
 Para realizar tareas de alto nievel utilizamos comandos de usuario amigables tales como:
