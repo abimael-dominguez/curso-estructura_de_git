@@ -62,7 +62,9 @@ Comencemos a utilizar nuestro primer comando de bajo nivel.
 ### git hash-object
 
 Modificadores comunes:
+
 	--stdin : lee el objeto desde el "standard input".
+	
 	-w : escribe el contenido en el repositorio; "w" hace referencia a "write".
  
  `git hash-object` es como una máquina generadora de tickets, cuando lo ejecutamos nos devuelve un identificador (SHA-1).
