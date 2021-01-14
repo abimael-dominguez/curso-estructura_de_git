@@ -19,6 +19,6 @@ Se dio la vuelta pero no vio nada.
 
 
 # _Interpretación_
-El zorro le cuenta al Principito que los hombres, a las gallinas suelen domesticar pero a los zorros suelen cazar; además le confiesa su gusto por las gallinas.
+El zorro le cuenta al Principito que los hombres, a las gallinas suelen domesticar y a los zorros suelen cazar; además le confiesa su gusto por las gallinas.
 
 
