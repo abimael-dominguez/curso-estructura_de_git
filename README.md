@@ -1,6 +1,6 @@
 # Curso - Estructura de Git
 
-No todas las personas que utilizan Git comprenden su **estructura**. Comprender su estructura ayudará a dominar su uso sin tener que memorizar todos los comandos y parámetros.
+> No todas las personas que utilizan Git comprenden su **estructura**. Comprender su estructura ayudará a dominar su uso sin tener que memorizar todos los comandos y parámetros.
 
 Prerequisitos: 
 - Conomientos básicos de git clone, git status, git commit , git log, git add , git init, git checkout y git branch.
