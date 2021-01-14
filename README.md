@@ -19,7 +19,7 @@ _Nota: los archivos de este repositorio serán de utilidad para realizar los eje
 		
 - [2. Claves y valores](2_claves_y_valores.md#2-claves-y-valores)	
 	
-	- Se describen el núcleo de Git, y algunos comandos útiles para manejar claves y valores.
+	- Se describen el núcleo de Git y algunos comandos útiles para manejar claves y valores.
 - [3. Los objetos de Git](3_los_objetos_de_git.md#3-los-objetos-de-git)
 	
 	- Se describen los cuatro objetos de Git: blob, tree, commit y tag así como los comandos principales para manejar estos objetos.
