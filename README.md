@@ -1,4 +1,4 @@
-# Curso de Git
+# Curso - Estructura de Git
 
 No todas las personas que utilizan Git comprenden su **estructura**. Comprender su estructura ayudará a dominar su uso sin tener que memorizar todos los comandos y parámetros.
 
