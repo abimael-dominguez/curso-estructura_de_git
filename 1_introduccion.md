@@ -78,7 +78,7 @@ En este curso nos enfocaremos  principalmente en las siguientes partes:
 - Clonar el repositorio del curso
 
 ```bash
->> git remote add origin https://github.com/abimael-dominguez/curso-estructura_de_git.git
+>> git clone https://github.com/abimael-dominguez/curso-estructura_de_git.git
 ```
 
 
