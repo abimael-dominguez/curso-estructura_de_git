@@ -101,7 +101,7 @@ git init
 	- _objects_:
 	- _refs_: 
 
-Otros comandos que te pueden ser de utiliadad:
+Otros comandos que te pueden ser de utilidad:
 
 ```bash
 # Si cometiste un error puedes borrar el repositorio con el siguiente comando y volver a comenzar
