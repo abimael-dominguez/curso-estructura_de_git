@@ -75,18 +75,9 @@ En este curso nos enfocaremos  principalmente en las siguientes partes:
 ---
 #
 
-- Clonar el repositorio del curso
-
-```bash
->> git clone https://github.com/abimael-dominguez/curso-estructura_de_git.git
-```
-
-
 - Crear una carpeta nueva llamada "repositorio_de_aprendizaje"
 
 ```bash
->> cd curso_de_git
-
 >> mkdir repositorio_de_aprendizaje
 ```
 - Inicializar el repositorio
