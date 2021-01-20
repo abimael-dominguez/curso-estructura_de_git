@@ -105,7 +105,7 @@ Otros comandos que te pueden ser de utilidad:
 # Te sirve para visualizar desde la terminal el contenido de un archivo
 >> cat <nombre-del-archivo>
 
-# El programa "tree" te puede ayudar a visualizar y navergar entre las carpetas; prueba con estos:
+# El programa "tree" te puede ayudar a visualizar y navegar entre las carpetas; prueba con estos:
 >> tree .git
 >> tree .git/objects
 
