@@ -111,6 +111,9 @@ Otros comandos que te pueden ser de utilidad:
 
 # También puedes listar los directorios con "ls"
 >> ls .git -F1
+
+# Para listar el árbol de directorios de forma recursiva ejecuta:
+>> ls -R .git
 ```
 
 ------
