@@ -79,6 +79,7 @@ En este curso nos enfocaremos  principalmente en las siguientes partes:
 
 ```bash
 >> mkdir repositorio_de_aprendizaje
+>> cd repositorio_de_aprendizaje
 ```
 - Inicializar el repositorio
 
